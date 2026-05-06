@@ -1,0 +1,63 @@
+#BlockChain :-
+		Blockchain is a decentralized, distributed, and immutable digital ledger technology (DLT) that securely records transactions across a network of computers. It eliminates the need for intermediaries by using cryptographic hashing and consensus mechanisms to ensure data integrity. Primarily known for powering cryptocurrencies, it is also used for smart contracts, supply chain tracking, and digital identity management.
+
+
+
+-> Block :-
+	     It is a digital container or essentially a record of transition data , acting like a 'Page' in a shared ledger. Each block contains a unique hash (digital fingerprint), a timestamp, and the hash of the previous block, linking them into an immutable chain or sequential chain . Blocks are validated by Network participants and onces are added can't be altered.
+
+-- Mainly a Block contain -- 
+1. Transition data
+2.Hash
+3.previous Hash
+4.Time stamp
+5.Nonce or MetaData
+
+Q. How Does a Chain Forms in BlockChain?
+Ans. Chain in Blockchain is created by embedding the hash of the previous block within the new block, linking them together.
+
+-> Transaction flow in BlockChain:-
+
+--These is mainly done in six parts--
+-Initiation: A user creates a transaction, defining sender, receiver, and data, typically via a wallet.
+
+-Signing: The sender uses their private key to sign the transaction, ensuring authenticity and preventing tampering.
+
+-Broadcasting: The signed transaction is sent to the distributed network of nodes.
+
+-Validation & Mempool: Network nodes verify the signature and ensure the sender has sufficient balance. Valid transactions are stored in a pending pool (mempool).Mining/Consensus: Miners or validators pull transactions from the mempool and attempt to bundle them into a new block by solving cryptographic puzzles (Proof-of-Work) or validation (Proof-of-Stake).
+
+-Confirmation & Settlement: The block is added to the blockchain. The transaction is now immutable and considered fully confirmed.
+
+->Hashing :-
+		It is the cryptographic process of transforming input data (transactions, block details) of any length into a unique, fixed-length string of characters, acting as a digital fingerprint.
+
+#MetaMask :-
+		It is a popular software cryptocurrency wallet and browser extension that allows users to store, manage, and swap Ethereum-based tokens (ERC-20, NFTs) and interact with decentralized applications (dApps) without downloading a full blockchain.
+
+->Public Address :-
+	(It is on the Top of the Extension/App and starts with '0x' like that)
+		It is designed to receive assets that run on Ethereum Virtual Machine (EVM) compatible networks.
+		While the address itself looks the same, it can hold several distinct types of digital assets across many different blockchains.
+
+--Examples -- 
+1. Cryptocurrencies & Stablecoins (Fungible)
+These are interchangeable tokens used for payments, trading, or decentralized finance (DeFi).Native Network Coins: The primary coin used to pay for "gas" (transaction fees) on a specific network.Ethereum: Ether (ETH).Polygon: MATIC/POL.BNB Chain: BNB.ERC-20 Tokens: The standard for most "altcoins" on Ethereum and compatible chains.Stablecoins: US Dollar-pegged assets like USDC, USDT, and DAI.DeFi & Utility Tokens: Assets like Chainlink (LINK), Uniswap (UNI), and AAVE.
+
+2. Digital Collectibles (Non-Fungible Tokens - NFTs)
+These are unique assets that cannot be swapped 1:1 for an identical version.ERC-721 Tokens: The classic standard for unique digital art and collectibles (e.g., CryptoPunks, ENS domains).ERC-1155 Tokens: A "multi-token" standard often used in gaming for both unique items (like a legendary sword) and stackable items (like health potions).
+
+3. Cross-Chain Variations
+MetaMask's 0x address is "multichain," meaning it works on dozens of networks beyond just Ethereum.Layer 2s: Fast, cheap networks like Arbitrum, Optimism, and Base.Sidechains: Independent networks like Polygon and Avalanche.Wrapped Tokens: Assets from other blockchains brought over to an EVM chain, such as Wrapped Bitcoin (WBTC).💡 Important Tip: Always ensure you are on the correct network inside MetaMask before sending or receiving. Sending tokens to an address on the wrong network (e.g., sending native BTC to an 0x address) can result in a permanent loss of funds.
+
+
+
+
+
+
+
+
+
+
+
+
