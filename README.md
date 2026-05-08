@@ -25,3 +25,10 @@ To become a Blockchain Developer.
 - Solidity
 - Ethereum
 - JavaScript
+
+
+## 📅 Day 2
+- Learned Solidity basics
+- Created first smart contract
+- Understood state variables and functions
+- Built SimpleStorage contract
