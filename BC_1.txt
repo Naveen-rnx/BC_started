@@ -1,0 +1,21 @@
+#Solidity:-
+	    -> It is a object oriented , high level language for implementing smart contracts.
+	    -> Smart contracts are programs which governs the behaviour of accounts within the Ethereum state.
+	    -> It is also called as curly-bracket language designed for EVM that is influenced by C++ , Python , JavaScript.
+	    -> It is a statically typed , supports inheritance libraries and complex user-defined type among other feature.
+
+-- USES --
+ we can create contracts like
+  -> voting
+  -> CrowdFunding
+  -> Blind auctions
+  -> Multi-Signature wallets
+
+
+#Remix IDE :-
+		It is an open source IDE by which we can Develop , Deploy , Administer.
+		
+-> Lnaguage Support - Solidity and Vyper
+-> Written in - JavaScript
+-> Modules - Testing , Debugging , Deploy
+
