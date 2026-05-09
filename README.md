@@ -24,7 +24,7 @@ To become a Blockchain Developer.
 
   
 ## 📅 Day 3
--Learned Solidity basics
+- Learned Solidity basics
 - Created first smart contract
 - Understood state variables and Functions
 - Built a Sample_Identity contract on Remix IDE
