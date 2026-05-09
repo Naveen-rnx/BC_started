@@ -31,4 +31,5 @@ To become a Blockchain Developer.
 - Learned Solidity basics
 - Created first smart contract
 - Understood state variables and functions
-- Built SimpleStorage contract
+- Built a Sample_Identity contract on Remix IDE
+  
