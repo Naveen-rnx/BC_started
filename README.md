@@ -14,11 +14,13 @@ To become a Blockchain Developer.
 - Learned about private key and seed phrase security
 
 
-## 📅 Day 2
--Learn About RemixIDE and MetaMask
--Create Wallet on MetaMask
--Smart Contract Comiplation >>  ABI(Apllication Binary Interface) , ByteCode , opcodes
--Mainnet and Testnet
+## 🗓️ Day 2
+- Learned about Remix IDE and MetaMask
+- Created wallet on MetaMask
+- Learned Smart Contract Compilation
+- Understood ABI (Application Binary Interface)
+- Learned about Bytecode and Opcodes
+- Learned difference between Mainnet and Testnet
 
   
 ## 📅 Day 3
