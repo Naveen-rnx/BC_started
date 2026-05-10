@@ -28,3 +28,10 @@ To become a Blockchain Developer.
 - Created first smart contract
 - Understood state variables and Functions
 - Built a Sample_Identity contract on Remix IDE
+
+
+## 📅 Day 4
+- Local Variables
+- Memory use cases and the datatypes used in Function by using these
+- Function - Setters and Getters
+- Pure Vs View in Solidity
