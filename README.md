@@ -35,3 +35,10 @@ To become a Blockchain Developer.
 - Memory use cases and the datatypes used in Function by using these
 - Function - Setters and Getters
 - Pure Vs View in Solidity
+
+
+## 📅 Day 5
+- Constructor in Solidity
+- Overflow (Batch and Integer)
+- Arrays (Fixed & Dynamic)
+- Byte Arrays
