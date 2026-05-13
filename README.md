@@ -49,3 +49,9 @@ To become a Blockchain Developer.
 - Function like boolean , struct , if-else , Enum
 - Mapping and Struct Mapping
 - Storage and Memory
+
+
+## 📅 Day 7
+- Global Variables in Solidity
+- Contract Balance (How to use payable and how to transfer ether from one account to another account as we need)
+- Visiblity (Public , Private , Internal , External)
