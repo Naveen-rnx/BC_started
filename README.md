@@ -42,3 +42,10 @@ To become a Blockchain Developer.
 - Overflow (Batch and Integer)
 - Arrays (Fixed & Dynamic)
 - Byte Arrays
+
+
+## 📅 Day 6
+- Loops In solidity
+- Function like boolean , struct , if-else , Enum
+- Mapping and Struct Mapping
+- Storage and Memory
